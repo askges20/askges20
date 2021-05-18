@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
 
-<div align="center">
-  <h2></h2>
-  My blog 👉 <a href="link=https://blog.naver.com/ehqt_15"><img src="https://img.shields.io/badge/-Naver%20Blog-brightgreen"></a>
-</div>
-
 <!--
 **askges20/askges20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
